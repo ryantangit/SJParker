@@ -8,7 +8,6 @@
 - HTML extracted and transformed and loaded onto a csv file.
 
 ## Pipeline Version 2 In-Progress
-- formalization of process with airflow, looking into deployment onto local k3s cluster.
 - Additional parameters gathering can be inferred from data.
 - Database to scale data storage.
 
